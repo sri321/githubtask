@@ -37,3 +37,8 @@ Check the webserver again
 ```
 curl "http://IPAddress:5000"
 ```
+
+# Notes
+
+Time Spent on the Task: 60 minutes
+Language Used: Python
